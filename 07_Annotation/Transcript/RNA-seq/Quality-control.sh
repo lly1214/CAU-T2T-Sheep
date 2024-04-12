@@ -1,0 +1,1 @@
+fastp -i lung.R1.fq.gz -o lung.R1.clean.fq.gz -I lung.R2.fq.gz -O lung.R2.clean.fq.gz -h lung.QC.report.html -j lung.QC.report.json -w 5
