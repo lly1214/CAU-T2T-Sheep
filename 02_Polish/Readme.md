@@ -1,2 +1,2 @@
-Customized pipeline used for Genome polishing
+Customized pipeline used for Genome polishing  
   sh run.sh
