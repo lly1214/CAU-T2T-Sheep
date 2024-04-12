@@ -1,0 +1,8 @@
+{
+	"yak":"/T2T_polish/version2.0/bin/bin/yak",
+	"minimap2":"/T2T_polish/version2.0/bin/bin/minimap2",
+	"samtools":"/T2T_polish/version2.0/bin/bin/samtools",
+	"python3":"/Path/Python-3.6.3/bin/python3",
+	"script":"/T2T_polish/version2.0/bin/bin/",
+	"Workflow":"/T2T_polish/version2.0/bin/"
+}

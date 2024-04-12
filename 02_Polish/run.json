@@ -1,0 +1,12 @@
+{
+  "nextPolish2.hifi_fofn": "/T2T_polish/version2.0/test/hifi.fofn",
+  "nextPolish2.workdir": "/T2T_polish/version2.0/test/",
+  "nextPolish2.memory": "60G",
+  "nextPolish2.lgs_fofn": "/T2T_polish/version2.0/test/lgs.fofn",
+  "nextPolish2.genome": "/Path/test.fa",
+  "nextPolish2.sample": "test",
+  "nextPolish2.software_json": "/T2T_polish/version2.0/test/software.json",
+  "nextPolish2.sgs_fofn": "/T2T_polish/version2.0/test/sgs.fofn",
+  "nextPolish2.cpu": 20
+}
+
