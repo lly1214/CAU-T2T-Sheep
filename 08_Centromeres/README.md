@@ -1,8 +1,8 @@
-Sequence identity and heatmap ploting  
+Calculate sequence identity and plot heatmap  
   sh Identity_heatmap.sh
 
-Entropy calculating and plot  
+Calculate entropy using NeSSie and plot  
   sh NeSSie.sh
 
-Centromeric repeat identification and clustering  
+Centromeric satellite repeats identification and clustering  
   sh SRF.sh
