@@ -1,0 +1,7 @@
+sample: Chr01:121030500-131956700
+fasta: Chr01:121030500-131956700.fasta
+window: 5000
+nbatch: 4
+alnthreads: 10
+mm_f: 10000
+tempdir: temp
