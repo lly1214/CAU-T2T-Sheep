@@ -10,7 +10,7 @@ The polish pipeline was written based on WDL. It involves 8 steps of processing,
 #### Dependencies
 * Python 3.6+
 * java 11.0+
-* Cromwell
+* Cromwell  
 Other dependent softwares are included in the \bin\bin directory
 #### Input
 Low-quality genome fasta file to be polished is required.
