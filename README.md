@@ -1,6 +1,7 @@
 Here are scripts for assemby and related analysis of T2T-sheep1.0.
 
-Description for each directory:
+Description for each directory:  
+
 The 01_Assembly directory contains codes for trio binning, haploid genome assembly. The commands for Hi-C anchoring and assemblies of telomeres are also shwon in the directory.
 
 The 02_Polish directory contains codes for polish of T2T-sheep1.0.
