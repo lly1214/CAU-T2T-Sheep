@@ -66,8 +66,8 @@ The 06_ChIP-seq directory contains codes for mapping and processing ChIP-seq dat
 The 07_Annotation directory contains codes for repeat annotation and gene annotation based on the three strategies of transcript-based, de novo, and homolog-based predictions.
 
 ### 08_Centromeres
-The 08_Centromeres directory contains codes for (1) centromeric sequence similarity calculation and heatmap visualization using StainedGlass, (2) calculation of the sequence complexity and entropy using NeSSie and (3) identification of satellite repeats using SRF.
+The 08_Centromeres directory contains codes for (1) centromeric sequence similarity calculation and heatmap visualization using [StainedGlass](https://github.com/mrvollger/StainedGlass), (2) calculation of the sequence complexity and entropy using [NeSSie](https://github.com/projectnessie/nessie) and (3) identification of satellite repeats using [SRF](https://github.com/lh3/srf).
 
 ### 09_OrthoFinder 
-The 09_OrthoFinder directory contains codes for identifying orthologous gene groups using OrthoFinder.
+The 09_OrthoFinder directory contains codes for identifying orthologous gene groups using [OrthoFinder](https://github.com/davidemms/OrthoFinder).
 
