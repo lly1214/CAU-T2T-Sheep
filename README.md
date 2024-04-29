@@ -1,6 +1,8 @@
 # T2T-sheep1.0
 We assembled a telomere-to-telomere (T2T) gap-free genome (2.85 Gb) from a ram (T2T-sheep1.0), which included a Y chromosome of 26.59 Mb, using ultralong ONT and PacBio HiFi reads together with Hi-C and Bionano data.  
+
 The scripts for T2T-sheep1.0 are deposited in this website, including genome assembly, annotation, methylation, ChIP-seq, genome assessment, SD calling, centromere repeat identification, etc.  
+
 The T2T genome polish pipeline was developed combining PacBio, ONT long reads, and short reads, and it employs NextPolish, NextPolish2, and other dependencies to improve the genome quality greatly.
 ## Descriptions 
 ### 01_Assembly
@@ -61,11 +63,11 @@ The 05_Methylation directory contains codes for methylation calling based on HiF
 The 06_ChIP-seq directory contains codes for mapping and processing ChIP-seq data.
 
 ### 07_Annotation
-The 07_Annotation directory contains codes for repeat annotations, transcript-based prediction, de novo prediction and homolog-based prediction of genes.
+The 07_Annotation directory contains codes for repeat annotation and gene annotation based on the three strategies of transcript-based, de novo, and homolog-based predictions.
 
 ### 08_Centromeres
-The 08_Centromeres directory contains codes for sequence similarity calculating and visualization using StainedGlass, calculation of the sequence complexity and entropy using NeSSie and identification of satellite repeats using SRF.
+The 08_Centromeres directory contains codes for (1) centromeric sequence similarity calculation and heatmap visualization using StainedGlass, (2) calculation of the sequence complexity and entropy using NeSSie and (3) identification of satellite repeats using SRF.
 
 ### 09_OrthoFinder 
-The 09_OrthoFinder directory contains codes for identifying orthologous groups using OrthoFinder.
+The 09_OrthoFinder directory contains codes for identifying orthologous gene groups using OrthoFinder.
 
